@@ -5,7 +5,7 @@
 <p align="center">
   
 </p>
-<h1>
+<h1 align="center">
 <br>
 <img src="https://github.com/basu021/oop/blob/main/elements/logo.svg" height="250" align="center" />
 <br>
