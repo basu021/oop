@@ -6,6 +6,6 @@
 </p>
 <h1 align="center">
 <br>
-<img src="https://github.com/basu021/oop/blob/main/elements/logo.svg" height="250" align="center" />
+<img src="https://github.com/basu021/oop/blob/main/elements/logo.svg" height="200" align="center" />
 <br>
 </h1>
