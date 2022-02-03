@@ -2,62 +2,23 @@
   Object Oriented Programming
 </h1>
 <p align="center">
-  
+  <br>
+  <img src="https://img.shields.io/github/last-commit/basu021/oop" alt="">
+<img src="https://img.shields.io/github/contributors/basu021/oop" alt="">
+<img src="https://img.shields.io/github/stars/basu021?style=social" alt="">
+<img src="https://img.shields.io/github/repo-size/basu021/oop" alt="">
+<img src="https://img.shields.io/github/languages/code-size/basu021/oop?style=flat-square" alt="">
+<img src="https://img.shields.io/github/directory-file-count/basu021/oop?style=flat-square" alt="">
+<img src="https://img.shields.io/tokei/lines/github/basu021/oop?style=flat-square" alt="">
+<img src="https://img.shields.io/github/issues-pr/basu021/oop?style=flat-square" alt="">
+<img src="https://img.shields.io/github/issues/basu021/oop?style=flat-square" alt="">
+<img src="https://img.shields.io/github/license/basu021/oop?style=flat-square" alt="">
 </p>
 <h1 align="center">
 <br>
 <img src="https://github.com/basu021/oop/blob/main/elements/logo.svg" height="200" align="center" />
 <br>
 </h1>
-
-<!-- 1. Write a Java program to print 'Hello' on screen and then print your name
-on a separate line.
-2. Write a Java program to print the sum of two numbers.
-3. Write a Java program that takes a number as input and prints its
-multiplication table upto 10.
-4. Write a Java program to print the area and perimeter of a rectangle.
-5. Write a Java program to swap two variables.
-6. Write a Java program to convert a decimal number to binary number.
-7. Write a Java program to compare two numbers.
-8. Write a Java program and compute the sum of the digits of an integer.
-9. Write a Java program to count the letters, spaces, numbers and other
-characters of an input string.
-10. Write a Java program to reverse a string.
-11. Write a Java program to accept a number and check the number is even
-or not. Prints 1 if the number is even or 0 if the number is odd.
-12. Write a Java program that accepts two integer values from the user and
-return the larger values. However if the two values are the same, return 0
-and return the smaller value if the two values have the same remainder when
-divided by 6.
-13. Write a Java program to get the larger value between first and last
-element of an array (length 3) of integers .
-14. Design a class to represent a bank account. Include the following
-members :
-Data members:
-- Name of the depositor
-- Account Number
-- Type of account
-- Balance amount in the account
-21
-Methods:
-- To assign initial values
-- To deposit an amount
-- To withdraw an amount
-- To display the name and balance
-15. Given are two one-dimensional arrays, A and B which are sorted in
-ascending order. Write a program to merge them into a single sorted array C
-that contains every item from arrays A and B, in ascending order.
-16. Write a java program implementing multiple inheritance.
-17. Write a java program implementing package.
-18. Write a java program to read a file line by line and print the line on the output
-screen.
-19. Write a java program to read content from one file and write it into another
-file.
-20. Define an exception called “No Match Exception” that is thrown when a
-string is not equal to “India”. Write a program that uses this exception.
-21. Develop a java project for percentage calculator/temperature conversion
-tool.
--->
 
 ## Experiments
 
