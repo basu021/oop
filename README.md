@@ -5,7 +5,7 @@
   <br>
   <img src="https://img.shields.io/github/last-commit/basu021/oop" alt="">
 <img src="https://img.shields.io/github/contributors/basu021/oop" alt="">
-<img src="https://img.shields.io/github/stars/basu021?style=social" alt="">
+<img src="https://img.shields.io/github/stars/basu021/oop?style=social" alt="">
 <img src="https://img.shields.io/github/repo-size/basu021/oop" alt="">
 <img src="https://img.shields.io/github/languages/code-size/basu021/oop?style=flat-square" alt="">
 <img src="https://img.shields.io/github/directory-file-count/basu021/oop?style=flat-square" alt="">
