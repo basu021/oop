@@ -20,6 +20,12 @@
 <br>
 </h1>
 
+### Things to be done
+
+- [x] SCTEVT 3rd Semester oop Problems
+- [ ] OOM Concept and Explaination
+
+
 ## Experiments
 
 1. [Write a Java program to print 'Hello' on screen and then print your name on a separate line.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-1/Print_hello.java)
