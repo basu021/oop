@@ -32,7 +32,7 @@
 
 2. [Write a Java program to print the sum of two numbers.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-2/Sum_of_two_numbers.java)
 
-3. [Write a Java program that takes a number as input and prints its multiplication table upto 10.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-2/Multiplication_table.java)
+3. [Write a Java program that takes a number as input and prints its multiplication table upto 10.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-3)
 
 4. [Write a Java program to print the area and perimeter of a rectangle.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-4/Print_area_and_perimeter_of_rect.java)
 
