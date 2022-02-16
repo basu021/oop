@@ -52,9 +52,9 @@
 
 12. [Write a Java program that accepts two integer values from the user and return the larger values. However if the two values are the same, return 0](https://github.com/basu021/oop/blob/main/oop_using_java/exp-12)
 
-13. [Write a Java program to get the larger value between first and last element of an array (length 3) of integers .](https://github.com/basu021/oop/blob/main/oop_using_java/exp-13/Large_element.java)
+13. [Write a Java program to get the larger value between first and last element of an array (length 3) of integers .](https://github.com/basu021/oop/blob/main/oop_using_java/exp-13)
 
-14. <p><a href="https://github.com/basu021/oop/blob/main/oop_using_java/exp-14/Bankaccount.java">Design a class to represent a bank account. Include the following members :</a> 
+14. <p><a href="https://github.com/basu021/oop/blob/main/oop_using_java/exp-14">Design a class to represent a bank account. Include the following members :</a> 
   - Data members:
     - Name of the depositor
     - Account Number
@@ -67,4 +67,4 @@
     - To display the name and balance
   </p>
 
-15. [Given are two one-dimensional arrays, A and B which are sorted in ascending order. Write a program to merge them into a single sorted array C that contains every item from arrays A and B, in ascending order](https://github.com/basu021/oop/blob/main/oop_using_java/exp-15/Array_short_merge.java)
+15. [Given are two one-dimensional arrays, A and B which are sorted in ascending order. Write a program to merge them into a single sorted array C that contains every item from arrays A and B, in ascending order](https://github.com/basu021/oop/blob/main/oop_using_java/exp-15)
