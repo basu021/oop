@@ -40,9 +40,9 @@
 
 6. [Write a Java program to convert a decimal number to binary number.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-6)
 
-7. [Write a Java program to compare two numbers.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-7/Compare_two_nums.java)
+7. [Write a Java program to compare two numbers.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-7)
 
-8. [Write a Java program to count the letters, spaces, numbers and other characters of an input string.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-8/Sum_of_digits.java)
+8. [Write a Java program to count the letters, spaces, numbers and other characters of an input string.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-8)
 
 9. [Write a Java program to reverse a string.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-9/Count_letter_space_num_char_symbols.java)
 
