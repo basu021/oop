@@ -30,7 +30,7 @@
 
 1. [Write a Java program to print 'Hello' on screen and then print your name on a separate line.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-1/Print_hello.java)
 
-2. [Write a Java program to print the sum of two numbers.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-2/Sum_of_two_numbers.java)
+2. [Write a Java program to print the sum of two numbers.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-2)
 
 3. [Write a Java program that takes a number as input and prints its multiplication table upto 10.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-3)
 
