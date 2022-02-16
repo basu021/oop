@@ -67,4 +67,4 @@
     - To display the name and balance
   </p>
 
-15. [Given are two one-dimensional arrays, A and B which are sorted in ascending order. Write a program to merge them into a single sorted array C that contains every item from arrays A and B, in ascending order](https://github.com/basu021/oop/blob/main/oop_using_java/exp-15)
+15. [Given are two one-dimensional arrays, A and B which are sorted in ascending order. Write a program to merge them into a single sorted array C that contains every item from arrays A and B, in ascending order](https://github.com/basu021/oop/tree/main/oop_using_java/exp-15)
