@@ -38,7 +38,7 @@
 
 5. [Write a Java program to swap two variables.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-5)
 
-6. [Write a Java program to convert a decimal number to binary number.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-6/Decimal_to_binary.java)
+6. [Write a Java program to convert a decimal number to binary number.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-6)
 
 7. [Write a Java program to compare two numbers.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-7/Compare_two_nums.java)
 
